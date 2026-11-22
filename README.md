@@ -84,6 +84,21 @@ A Python-based final-year project focused on estimating carbon emissions and ben
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prasannapatil114&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasannapatil114&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Prasannapatil114&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ### 📚 Currently Focused On
 
 - Improving Java programming skills
